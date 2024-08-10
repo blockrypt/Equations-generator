@@ -28,7 +28,7 @@ Math Solver - это кросс-платформенное приложение,
 1. Склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/username/math_solver.git
+    git clone https://github.com/blockrypt/math_solver.git
     cd math_solver
     ```
 
